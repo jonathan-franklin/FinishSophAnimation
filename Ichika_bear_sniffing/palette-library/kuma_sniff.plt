@@ -1,4 +1,5 @@
 ToonBoomAnimationInc PaletteFile 2
+Solid    "New 0"                    0x090b0411ebd0177e  72  95 103 255
 Solid    Black                      0x08dad148c82007ff   0   0   0 255
 Solid    White                      0x08dad148c8200801 255 255 255 255
 Solid    Red                        0x08dad148c8200803 255   0   0 255
