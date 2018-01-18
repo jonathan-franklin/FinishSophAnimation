@@ -162,4 +162,38 @@
   <Drawing Key="" Name="20" Version="1"/>
   <Drawing Key="" Name="21" Version="1"/>
  </Element>
+ <Element Name="ClaudiBoy" ID="12" Folder="ClaudiBoy">
+  <Drawing Key="" Name="1_1" Version="1"/>
+  <Drawing Key="" Name="48" Version="1"/>
+  <Drawing Key="" Name="47" Version="1"/>
+  <Drawing Key="" Name="46" Version="1"/>
+  <Drawing Key="" Name="45" Version="1"/>
+  <Drawing Key="" Name="44" Version="1"/>
+  <Drawing Key="" Name="43" Version="1"/>
+  <Drawing Key="" Name="7" Version="1"/>
+  <Drawing Key="" Name="8" Version="1"/>
+  <Drawing Key="" Name="9" Version="1"/>
+  <Drawing Key="" Name="10" Version="1"/>
+  <Drawing Key="" Name="11" Version="1"/>
+  <Drawing Key="" Name="28" Version="1"/>
+  <Drawing Key="" Name="29" Version="1"/>
+  <Drawing Key="" Name="30" Version="1"/>
+  <Drawing Key="" Name="31" Version="1"/>
+  <Drawing Key="" Name="32" Version="1"/>
+ </Element>
+ <Element Name="ClaudiFace" ID="13" Folder="ClaudiFace">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="" Name="3" Version="1"/>
+  <Drawing Key="" Name="4" Version="1"/>
+  <Drawing Key="" Name="5" Version="1"/>
+  <Drawing Key="" Name="6" Version="1"/>
+  <Drawing Key="" Name="7" Version="1"/>
+  <Drawing Key="" Name="8" Version="1"/>
+  <Drawing Key="" Name="9" Version="1"/>
+  <Drawing Key="" Name="10" Version="1"/>
+  <Drawing Key="" Name="11" Version="1"/>
+  <Drawing Key="" Name="12" Version="1"/>
+ </Element>
+ <Element Name="Claudi" ID="14" Folder="Claudi"/>
 </SceneVersion>
